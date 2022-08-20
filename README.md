@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @popsicle27
-- 👀 I’m interested in ... interface design, interaction design
+- 👀 I’m interested in ... communication design, interface design and interaction design
 - 🌱 I’m currently learning ... ui/ux
-- 💞️ I’m looking to collaborate on ... websites and mobile designs
+- 💞️ I’m looking to collaborate on ... website and mobile designs
 - 📫 How to reach me ... leave me a message! I'll respond soon enough
 
 <!---
